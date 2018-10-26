@@ -1,0 +1,3 @@
+# diskretna-matimatika
+Labi
+readme
